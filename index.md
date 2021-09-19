@@ -10,6 +10,7 @@ throughout.
 ## Guides
 
 - [How to install Ruby](guides/installation.md)
+- [The Library](guides/the-library.md)
 
 ## Join Us
 
